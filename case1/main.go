@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/fairyhunter13/reflecthelper"
+	"github.com/fairyhunter13/reflecthelper/v3"
 )
 
 // Get the elem of a variable of reflect.Value
